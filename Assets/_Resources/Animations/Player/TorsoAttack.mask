@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TorsoAttack
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Bacon
+    m_Weight: 1
+  - m_Path: Bacon/Lowertorso
+    m_Weight: 0
+  - m_Path: Bacon/Lowertorso/Left UpperLeg
+    m_Weight: 0
+  - m_Path: Bacon/Lowertorso/Left UpperLeg/Left LowerLeg
+    m_Weight: 0
+  - m_Path: Bacon/Lowertorso/Left UpperLeg/Left LowerLeg/Left Foot
+    m_Weight: 0
+  - m_Path: Bacon/Lowertorso/Left UpperLeg/Left LowerLeg/Left Foot/Left Foot_end
+    m_Weight: 0
+  - m_Path: Bacon/Lowertorso/Left UpperLeg/Left LowerLeg/Left Foot/Left Foot_end/Left
+      Foot_end_end
+    m_Weight: 0
+  - m_Path: Bacon/Lowertorso/Right UpperLeg
+    m_Weight: 0
+  - m_Path: Bacon/Lowertorso/Right UpperLeg/Right LowerLeg
+    m_Weight: 0
+  - m_Path: Bacon/Lowertorso/Right UpperLeg/Right LowerLeg/Right Foot
+    m_Weight: 0
+  - m_Path: Bacon/Lowertorso/Right UpperLeg/Right LowerLeg/Right Foot/Right Foot_end
+    m_Weight: 0
+  - m_Path: Bacon/Lowertorso/Right UpperLeg/Right LowerLeg/Right Foot/Right Foot_end/Right
+      Foot_end_end
+    m_Weight: 0
+  - m_Path: Bacon/Lowertorso/Uppertorso
+    m_Weight: 1
+  - m_Path: Bacon/Lowertorso/Uppertorso/Head
+    m_Weight: 0
+  - m_Path: Bacon/Lowertorso/Uppertorso/Head/Head_end
+    m_Weight: 1
+  - m_Path: Bacon/Lowertorso/Uppertorso/Head/Head_end/Head_end_end
+    m_Weight: 1
+  - m_Path: Bacon/Lowertorso/Uppertorso/Left UpperArm
+    m_Weight: 1
+  - m_Path: Bacon/Lowertorso/Uppertorso/Left UpperArm/Left LowerArm
+    m_Weight: 1
+  - m_Path: Bacon/Lowertorso/Uppertorso/Left UpperArm/Left LowerArm/Left Hand
+    m_Weight: 1
+  - m_Path: Bacon/Lowertorso/Uppertorso/Left UpperArm/Left LowerArm/Left Hand/Left
+      Hand_end
+    m_Weight: 1
+  - m_Path: Bacon/Lowertorso/Uppertorso/Left UpperArm/Left LowerArm/Left Hand/Left
+      Hand_end/Left Hand_end_end
+    m_Weight: 1
+  - m_Path: Bacon/Lowertorso/Uppertorso/Right UpperArm
+    m_Weight: 1
+  - m_Path: Bacon/Lowertorso/Uppertorso/Right UpperArm/Right LowerArm
+    m_Weight: 1
+  - m_Path: Bacon/Lowertorso/Uppertorso/Right UpperArm/Right LowerArm/Right Hand
+    m_Weight: 1
+  - m_Path: Bacon/Lowertorso/Uppertorso/Right UpperArm/Right LowerArm/Right Hand/Right
+      Hand_end
+    m_Weight: 1
+  - m_Path: Bacon/Lowertorso/Uppertorso/Right UpperArm/Right LowerArm/Right Hand/Right
+      Hand_end/Right Hand_end_end
+    m_Weight: 1
+  - m_Path: BaconHair
+    m_Weight: 1
+  - m_Path: Body
+    m_Weight: 1
+  - m_Path: Head1
+    m_Weight: 1
